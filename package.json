@@ -1,0 +1,22 @@
+{
+  "name": "klrahul-homepage",
+  "version": "1.0.0",
+  "description": "Landing page for KL Rahul, Indian cricketer.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process can be defined here.'"
+  },
+  "keywords": [
+    "KL Rahul",
+    "cricket",
+    "landing page",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
